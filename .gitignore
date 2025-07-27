@@ -3,3 +3,5 @@ js/node_modules
 vendor
 composer.lock
 .phpunit.result.cache
+.idea
+package-lock.json
